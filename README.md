@@ -128,11 +128,7 @@ exec $SHELL
 ### Step 2 — Clone the Repository
 
 ```bash
-<<<<<<< HEAD
 git clone git@github.com:IPL-UV/SatArgoBbp.git
-=======
-git clone 
->>>>>>> f8744b5 (Update README.md)
 cd SatArgoBbp
 ```
 ### Step 3 — Set Up the Environment
