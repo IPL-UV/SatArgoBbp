@@ -39,7 +39,7 @@ Full description, methodology and results in:
 ## Model Performance – Deep Profiles (0–250 m)
 
 <div align="center">
-  <img src="docs/img/250.jpg" alt="Model Performance 250m" width="100%"/>
+  <img src="docs/img/Deep_profiles_250.png" alt="Model Performance 250m" width="100%"/>
 </div>
 
 ## Notebooks Overview
@@ -128,7 +128,11 @@ exec $SHELL
 ### Step 2 — Clone the Repository
 
 ```bash
+<<<<<<< HEAD
 git clone git@github.com:IPL-UV/SatArgoBbp.git
+=======
+git clone 
+>>>>>>> f8744b5 (Update README.md)
 cd SatArgoBbp
 ```
 ### Step 3 — Set Up the Environment
