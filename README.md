@@ -62,7 +62,7 @@ pixi run jupyter lab
 
 ### APA
 
-> García-Jiménez, J., Ruescas, A. B., Amorós-López, J., & Sauzède, R. (2025). *Combining BGC-Argo floats and satellite observations for water column estimations of the particulate backscattering coefficient*. EGUsphere. https://doi.org/10.5194/egusphere-2024-3942
+> García-Jiménez, J., Ruescas, A. B., Amorós-López, J., & Sauzède, R. (2025). *Combining BGC-Argo floats and satellite observations for water column estimations of the particulate backscattering coefficient*. EGUsphere. https://doi.org/10.5194/os-21-1677-2025
 
 ### BibTeX
 
@@ -72,7 +72,7 @@ pixi run jupyter lab
   title     = {Combining BGC-Argo floats and satellite observations for water column estimations of the particulate backscattering coefficient},
   journal   = {EGUsphere},
   year      = {2025},
-  doi       = {10.5194/egusphere-2024-3942}
+  doi       = {10.5194/os-21-1677-2025}
 }
 ```
 
