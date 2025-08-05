@@ -11,7 +11,7 @@ Full description, methodology and results in:
 > **Combining BGC-Argo floats and satellite observations for water column estimations of the particulate backscattering coefficient**  
 > Jorge García-Jiménez, Ana B. Ruescas, Julia Amorós-López, Raphaëlle Sauzède  
 > *EGUsphere (2025)*  
-> [🔗 Read the article](TODO)
+> [🔗 Read the article](https://os.copernicus.org/articles/21/1677/2025/)
 
 ## Regions of Interest
 
@@ -128,7 +128,7 @@ exec $SHELL
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone git@github.com:XXXXXXXXX IPL
+git clone 
 cd SatArgoBbp
 ```
 ### Step 3 — Set Up the Environment
